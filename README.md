@@ -1,10 +1,11 @@
 Hi, I’m Satish Reddy
 
-I’m a 2nd-year BTech CSE student. I’m currently learning programming and web development by working on small projects.
+I’m a 2nd-year BTech CSE student.
 
-What I’m Working On
+Currently Working On
 
-Currently working on an AI code judge website and improving my web development skills.
+* Portfolio website
+* AI code judge website
 
 Skills
 
@@ -15,10 +16,9 @@ Skills
 
 Projects
 
-* Portfolio Website — My personal portfolio website.
-* AI Code Judge — A project I’m working on to explore AI and code evaluation.
+* Portfolio Website — My personal site to show my work.
+* AI Code Judge — A site I’m building to accept and evaluate code submissions.
 
 Contact
 
-Email: reddemsatish8885121572@gmail.com
-
+📧 reddemsatish8885121572@gmail.com
