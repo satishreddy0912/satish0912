@@ -2,20 +2,29 @@ Copilot Notes
 
 Prompt I Used
 
-Write a GitHub profile README for me as a 2nd-year BTech CSE student.
+Create a GitHub profile README for me.
 
-My current skills are C, HTML, CSS, and GitHub. I have worked on a portfolio website and an AI code judge website. Keep the README simple and natural. Don’t add skills, achievements, experience, or projects that I haven’t mentioned.
+My name is Satish Reddy and I am a 2nd-year BTech CSE student.
+
+My actual skills are C, HTML, CSS, and GitHub.
+
+My actual projects are:
+
+* Portfolio website
+* AI code judge website
+
+Keep it simple and natural, like a student wrote it. Do not invent achievements, experience, technologies, or skills.
 
 Include a short introduction, what I’m currently working on, my skills, my projects, and my contact information.
 
 What Copilot Got Right
 
-Copilot helped organize my information into a simple README and gave me a good starting structure.
+Copilot correctly used the information I provided and created a simple README that accurately represents my current skills and projects.
 
 What Copilot Got Wrong
 
-Some of the suggestions were more detailed than what I could actually claim about my experience. I removed anything that I couldn’t verify or explain myself.
+Copilot did not make any significant factual mistakes in the generated README. I checked the information and found that the claims matched the details I provided.
 
-Final Check
+Final Audit
 
-I went through the README and removed information that wasn’t true or that I couldn’t verify.
+I checked the README line by line and verified that the skills, projects, and other information are accurate. I removed or avoided anything that I could not verify.
