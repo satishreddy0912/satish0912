@@ -22,3 +22,6 @@ Projects
 Contact
 
 📧 reddemsatish8885121572@gmail.com
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
