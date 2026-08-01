@@ -26,4 +26,4 @@ Contact
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satish0912&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satish0912&show_icons=true&theme=default)
